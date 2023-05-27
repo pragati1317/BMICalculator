@@ -1,8 +1,8 @@
-# untitled4
+# BMICalculatior
 
 A new Flutter project.
 
-## Getting Started
+## Details 
 
 This project is a starting point for a Flutter application.
 
